@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "a9157111-7e9d-47d2-b82b-c98c26244819",
+		"name": "Dummy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23015600"
+	},
+	"item": [
+		{
+			"name": "Gestion des employés",
+			"item": [
+				{
+					"name": "GetAllEmployee",
+					"request": {
+						"method": "GET",
+	gi					"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "GetSingleExistEmployeeBYid",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "POST",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
